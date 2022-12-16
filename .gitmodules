@@ -1,0 +1,6 @@
+[submodule "ProviderA"]
+	path = ProviderA
+	url = https://github.com/mehdisamavat/ProviderA.git
+[submodule "ProviderB"]
+	path = ProviderB
+	url = https://github.com/mehdisamavat/ProviderB.git

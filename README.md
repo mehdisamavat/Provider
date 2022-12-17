@@ -1,4 +1,4 @@
-git # Provider
+# Provider
 
 Two sample android apps that are implemented by  Clean Architecture (MVVM) and used Kotlin ,Room,Coroutine ,Retrofit,WorkManager , and ContentProvider 
 

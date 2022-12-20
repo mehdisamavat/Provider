@@ -1,5 +1,6 @@
 # Provider(AIDL)
 
-Two sample android apps that are implemented by  Clean Architecture (MVVM) and used Kotlin ,Room,Coroutine ,Retrofit,WorkManager , and ContentProvider 
 
-show how to share data between them in all conditions and every 3-minute update apps and also send data to the server
+used AIDl to send data to the second app 
+also, this is possibly the second solution for sending data to another app :  
+https://proandroiddev.com/ipc-techniques-for-android-messenger-3e8555a32167
